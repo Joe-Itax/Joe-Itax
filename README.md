@@ -223,7 +223,7 @@
 
 <br/>
 
-<h3 align="center"> 🤝🏻 Traîner avec moi </h3>
+<h3 align="center"> 🤝🏻 Vous pouvez me contacter via </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/joseph-itakala-2a6465250/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-Itax-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/Joseph_Itakala"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Itax-blue?style=flat-square&logo=twitter"></a>
@@ -231,12 +231,4 @@
 <a href="mailto:josephitakala18@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Itax-orange?style=flat-square&logo=Gmail"></a>
 <a href="https://wa.me/243977873421/"><img alt="WhatsApp" src="https://img.shields.io/badge/Whatsapp-Itax-lime?style=flat-square&logo=whatsapp"> </a>
 </p>
-
 <br/>
-
-<h2 align="center">🛠 Stars:</h2>
-
-<p align="left" width="100%" >
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Joe-Itax&show_icons=true&count_private=true" alt="Joe-Itax" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Joe-Itax" alt="Joe-Itax" />
-</p>
